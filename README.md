@@ -4,6 +4,9 @@
 ![alt text](https://github.com/Sanchit2104/Bank-Loan-Analysis/blob/main/Screenshot%20(33).png)
 
 # Dashboard 2 Overview
+![alt text](https://github.com/Sanchit2104/Bank-Loan-Analysis/blob/main/Screenshot%20(35).png)
+
+# Dashboard 3 Details
 ![alt text](
 
 # 🔍 Project Overview:
