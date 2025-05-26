@@ -7,7 +7,7 @@
 ![alt text](https://github.com/Sanchit2104/Bank-Loan-Analysis/blob/main/Dashboard/Bank%20Loan%20Overview.png)
 
 # Dashboard 3 Details
-![alt text]()
+![alt text](https://github.com/Sanchit2104/Bank-Loan-Analysis/blob/main/Dashboard/Bank%20Loan%20Details.png)
 
 # 🔍 Project Overview:
 As part of a real-world data visualization initiative, I built a comprehensive Bank Loan Analysis Dashboard using Tableau to provide deep insights into a bank’s lending portfolio. This interactive report empowers decision-makers to assess loan performance, manage risk, and optimize strategy with precision.
